@@ -1,18 +1,15 @@
 # Simple ToDo List Project 
-** This is my first project using **
 
 - HTML
 * CSS
 + JS
 
 
+## this is video link for todo list please watch
+
+[Todo list video](https://drive.google.com/file/d/1hpjkJIF3v9B8PDtjv-4EI_D-hL37f1xJ/view?usp=sharing)
 
 
-https://user-images.githubusercontent.com/122277647/217610562-976a4fc9-fd8b-4a6b-b8ec-26daa3c1a1c0.mp4
-
-
-
-
-![todolist image](todolist.png)
+![todolist image](./src/assets/todolist.png)
 
 
