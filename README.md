@@ -2,7 +2,7 @@
 
 - HTML
 * CSS
-+ JS
++ Vanilla JS
 
 
 
