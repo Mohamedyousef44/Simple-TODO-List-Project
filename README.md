@@ -1,4 +1,4 @@
-# Simple ToDo List Project 
+# Simple TODO List Project 
 
 - HTML
 * CSS
